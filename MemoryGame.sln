@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryGame", "MemoryGame\MemoryGame.csproj", "{D23C6401-2AA6-43EF-93CC-B893DF6564BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryGame.Test", "MemoryGame.Test\MemoryGame.Test.csproj", "{51E73068-5528-4F2C-814D-8ABFB9507ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23C6401-2AA6-43EF-93CC-B893DF6564BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23C6401-2AA6-43EF-93CC-B893DF6564BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23C6401-2AA6-43EF-93CC-B893DF6564BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23C6401-2AA6-43EF-93CC-B893DF6564BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E73068-5528-4F2C-814D-8ABFB9507ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E73068-5528-4F2C-814D-8ABFB9507ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E73068-5528-4F2C-814D-8ABFB9507ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E73068-5528-4F2C-814D-8ABFB9507ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A64C77-8537-4B73-8CDE-8AEE890E41CE}
+	EndGlobalSection
+EndGlobal
